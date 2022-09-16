@@ -11,7 +11,7 @@ pkg install git
 
 git clone https://github.com/9xhacker/9X.HACKER-SMF.git
 
-cd SMF
+cd 9X.HACKER-SMF
 
 bash install.sh
 

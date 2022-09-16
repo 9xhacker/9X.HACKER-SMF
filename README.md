@@ -9,7 +9,7 @@ apt upgrade
 
 pkg install git
 
-git clone https://github.com/rixon-cochi/SMF.git
+git clone https://github.com/9xhacker/9X.HACKER-SMF.git
 
 cd SMF
 

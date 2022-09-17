@@ -36,7 +36,7 @@ printf " \e[91m ███████║\e[0m\e[1;92m ██║ ╚═╝ ██
 
 printf " \e[91m ╚══════╝\e[0m\e[1;92m ╚═╝     ╚═╝ \e[0m\e[1;93m ╚═╝ \e[0m\e[40;38;5;82mversion\e[30;48;5;82m1.2\e[0m\n"
 
-printf " \e[44m CODE RE BY 9X HACKER\e[0m\n"
+printf " \e[92m THIS TOOLS CREATED BY 9X HACKER\e[0m\n"
 
 printf " \n"
 

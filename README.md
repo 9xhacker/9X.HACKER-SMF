@@ -1,18 +1,20 @@
 # 9X.HACKER-SMF
 
+## Installation Commands ↙️
 
-Installation Commands
-  
-apt update
+* `apt update`
 
-apt upgrade
+* `apt upgrade`
 
-pkg install git
+* `pkg install git`
 
-git clone https://github.com/9xhacker/9X.HACKER-SMF.git
+* `git clone https://github.com/9xhacker/9X.HACKER-SMF.git`
 
-cd 9X.HACKER-SMF
+* `cd SMF`
 
-bash install.sh
+* `bash install.sh`
 
-bash smf.sh
+* `bash smf.sh`
+
+
+
